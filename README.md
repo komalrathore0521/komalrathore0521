@@ -1,4 +1,4 @@
-# Hi 👋, I'm Komal Rathore  
+   # Hi 👋, I'm Kumari Komal  
 
 🎓 MCA Student @ NIT Raipur  
 💻 Java & Web Developer | 🌱 Exploring Spring Boot & React  
