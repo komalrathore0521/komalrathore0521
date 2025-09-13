@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🔗 [**Harmoniq**](https://github.com/komalrathore0521/Harmoniq)  
+- 🔗 [**Harmoniq**](https://github.com/komalrathore0521/HarmoniqMusicPlayer)  
    A platform for disaster management with roles for Admin, Volunteer, and Victim.  
 
 - 🔗 [**URL Shortener Application**](https://github.com/komalrathore0521/UrlShortenerApplication)  
