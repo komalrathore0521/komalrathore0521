@@ -43,6 +43,10 @@
 ---
 
 ## 📂 Featured Projects
+
+- 🔗 [**Sweet**](https://github.com/komalrathore0521/Sweet_Shop_Management_System)  
+   A simple Sweet shop Management platform .
+   
 - 🔗 [**Harmoniq**](https://github.com/komalrathore0521/HarmoniqMusicPlayer)  
    A simple MUSIC PLAYER. With Your own playlist.  
 
