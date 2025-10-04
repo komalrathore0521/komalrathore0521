@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently working on: **AI Powered Expense Tracker**  
+- 🌱 Currently working on: [**AI Powered Expense Tracker**](https://github.com/komalrathore0521/ai-expense-tracker)
 - 💡 Interested in: Backend Development, Full-Stack Projects, and Cloud Deployment  
 - 🎯 Goal: To become a skilled Software Engineer & contribute to impactful projects  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/kumari-komal-6b08191a0)** | **komalrathore0521@gmail.com**
@@ -50,7 +50,7 @@
 - 🔗 [**Harmoniq**](https://github.com/komalrathore0521/HarmoniqMusicPlayer)  
    A simple MUSIC PLAYER. With Your own playlist.  
 
-- 🔗 [**URL Shortener Application**](https://github.com/komalrathore0521/UrlShortenerApplication)  
+- 🔗 [**URL Shortener Application**](https://github.com/komalrathore0521/url_shortener)-  
    A web app to shorten URLs and track analytics.  
 
 ---
